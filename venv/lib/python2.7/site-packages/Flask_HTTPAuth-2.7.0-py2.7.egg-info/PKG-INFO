@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: Flask-HTTPAuth
+Version: 2.7.0
+Summary: Basic and Digest HTTP authentication for Flask routes
+Home-page: http://github.com/miguelgrinberg/flask-httpauth/
+Author: Miguel Grinberg
+Author-email: miguelgrinberg50@gmail.com
+License: MIT
+Description: 
+        Flask-HTTPAuth
+        --------------
+        
+        Basic and Digest HTTP authentication for Flask routes.
+        
+Platform: any
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

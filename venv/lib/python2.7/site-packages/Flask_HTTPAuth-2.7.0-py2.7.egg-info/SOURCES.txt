@@ -1,0 +1,9 @@
+flask_httpauth.py
+setup.cfg
+setup.py
+Flask_HTTPAuth.egg-info/PKG-INFO
+Flask_HTTPAuth.egg-info/SOURCES.txt
+Flask_HTTPAuth.egg-info/dependency_links.txt
+Flask_HTTPAuth.egg-info/not-zip-safe
+Flask_HTTPAuth.egg-info/requires.txt
+Flask_HTTPAuth.egg-info/top_level.txt
